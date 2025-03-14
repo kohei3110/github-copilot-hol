@@ -11,5 +11,5 @@
 ## 環境情報
 
 - Visual Studio Code Insider (v1.99.0 +)
-- GitHub Copilot (Enterprise)
+- GitHub Copilot
 - Python 3.12 +
