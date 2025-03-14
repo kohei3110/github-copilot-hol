@@ -15,3 +15,7 @@
 - GitHub Copilot
 - Python 3.12 +
 - Node.js v22.14.0 +
+
+## ハンズオン内容
+
+[手順書](HOL-step-by-step-guide-1.md)

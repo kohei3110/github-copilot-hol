@@ -13,3 +13,7 @@
 - Visual Studio Code Insider (v1.99.0 +)
 - GitHub Copilot
 - Python 3.12 +
+
+## ハンズオン内容
+
+[手順書](HOL-step-by-step-guide-1.md)
